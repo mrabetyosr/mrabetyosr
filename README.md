@@ -10,9 +10,6 @@ I'm a passionate **Software Engineering student** in my final year at **ESPRIT**
 
 - 🎓 **Final Year** Software Engineering Student at ESPRIT
 - 💻 **Full Stack Developer** with expertise in modern web technologies
-- 🌱 Currently learning advanced software architecture patterns
-- 👯 Looking to collaborate on innovative projects
-- 💬 Ask me about **Spring Boot, Angular, React, or Node.js**
 - ⚡ Fun fact: I debug with coffee ☕
 
 ## 🛠️ Tech Stack
@@ -42,27 +39,6 @@ I'm a passionate **Software Engineering student** in my final year at **ESPRIT**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosrmrabet&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosrmrabet&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosrmrabet&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosrmrabet&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -72,23 +48,6 @@ I'm a passionate **Software Engineering student** in my final year at **ESPRIT**
 
 </div>
 
-## 💡 Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yosrmrabet&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-
-
-*Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on exciting projects! 🚀*
 
 </div>
 

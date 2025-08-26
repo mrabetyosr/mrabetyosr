@@ -10,7 +10,7 @@ I'm a passionate **Software Engineering student** in my final year at **ESPRIT**
 
 - 🎓 **Final Year** Software Engineering Student at ESPRIT
 - 💻 **Full Stack Developer** with expertise in modern web technologies
-- ⚡ Fun fact: I debug with coffee ☕
+- ⚡ Fun fact: I debug with Omar Guessmi ☕
 
 ## 🛠️ Tech Stack
 

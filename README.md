@@ -39,10 +39,15 @@ I'm a passionate **Software Engineering student** in my final year at **ESPRIT**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### 🐍 My GitHub Contribution Snake
+
+![GitHub Snake Light](https://github.com/mrabetyosr/mrabetyosr/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/mrabetyosr/mrabetyosr/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 
 </div>
 
-![GitHub Snake Animation](https://github.com/mrabetyosr/mrabetyosr/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 

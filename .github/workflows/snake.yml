@@ -13,11 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake.svg
+      - name: Generate snake.svg (light + dark)
         uses: Platane/snk@v3
         with:
-          github_user_name: mrabetyosr   # 👈 your GitHub username
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: mrabetyosr
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

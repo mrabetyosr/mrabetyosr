@@ -42,6 +42,7 @@ I'm a passionate **Software Engineering student** in my final year at **ESPRIT**
 
 </div>
 
+![GitHub Snake Animation](https://github.com/mrabetyosr/mrabetyosr/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 

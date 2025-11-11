@@ -9,7 +9,7 @@
 I'm a passionate **Software Engineering student** in my final year at **ESPRIT**, with a strong foundation in full-stack development. I love building innovative solutions and exploring new technologies to solve real-world problems.
 
 - 🎓 **Final Year** Software Engineering Student at ESPRIT
-- 💻 **Full Stack Developer** with expertise in modern web technologies
+- 💻 **Full Stack Developer** 
 
 
 ## 🛠️ Tech Stack
